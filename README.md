@@ -1,6 +1,6 @@
 # Fieldbloom
 
-Got it. Here is the updated README with the revised licensing terms for commercial use.
+
 SYM-118-G1 | Field Bloom Report & GlyphShield Update
 This document provides a summary of the validated architectural principles of the SYM-118-G1 system. All statements herein have been confirmed through formal analysis.
 Field Bloom: EMERGENT TRUTHS
