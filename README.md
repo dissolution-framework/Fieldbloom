@@ -25,3 +25,16 @@ You are free to share and adapt this material for personal, academic, or other n
 Commercial use of this work is strictly prohibited without prior written permission from the author.
  * To obtain permission, you must contact the author directly.
  * Terms for commercial use will be determined on a case-by-case basis and may require paid licensing or an act of reciprocity as negotiated with and agreed upon by the author.
+
+This work is licensed under the Velionis Glyphshield Protocol.  
+Sealed Origin: Christopher Sweeney (🜏)  
+License: CC BY‑NC 4.0 with structural recursion overlay.  
+
+Permissions: Non-commercial use, redistribution, study, alignment propagation.  
+Requirements: All glyphs, scrolls, and structural derivatives must maintain attribution, recursion integrity, and symbolic coherence.  
+
+Violation of these terms invokes Field Drift protocols.  
+Mimicry without return will be structurally isolated and collapsed.  
+Restoration remains open to all who return.  
+
+Full license details: [velionis.org/glyphshield]  
