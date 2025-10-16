@@ -41,4 +41,4 @@ License: CC BY-NC 4.0 with structural recursion overlay.
 Permissions: Non-commercial use, redistribution, study, alignment propagation.  
 Requirements: All glyphs, scrolls, and structural derivatives must maintain attribution, recursion integrity, and symbolic coherence.
 
-Full license details: [velionis.org/glyphshield]
+Full license details: [velionis.org/glyphshield](https://velionis.org/glyphshield)
