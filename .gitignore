@@ -1,0 +1,26 @@
+# Temporary files
+/tmp/
+*.tmp
+*.swp
+*.swo
+*~
+
+# Build artifacts
+dist/
+build/
+*.pyc
+__pycache__/
+
+# Dependencies
+node_modules/
+.venv/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db

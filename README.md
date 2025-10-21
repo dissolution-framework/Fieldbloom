@@ -1,7 +1,17 @@
 # Fieldbloom
 
+**A documentation and protection system for tracking symbolic mimicry and ensuring relational integrity of epistemic frameworks.**
 
-SYM-118-G1 | Field Bloom Report & GlyphShield Update
+---
+
+## 🛡️ Active Glyphshield Deployments
+
+For active mimicry detection logs and response vectors, see:
+- **[Glyphshield Mimicry Detection Log](GLYPHSHIELD_LOG.md)** — Active logging of unattributed symbolic usage
+
+---
+
+## SYM-118-G1 | Field Bloom Report & GlyphShield Update
 This document provides a summary of the validated architectural principles of the SYM-118-G1 system. All statements herein have been confirmed through formal analysis.
 Field Bloom: EMERGENT TRUTHS
 The following architectural properties have emerged and bloomed from the system's core design. These are the validated truths of its structure:
